@@ -1,19 +1,19 @@
 Origin: clauderig
 Label: clauderig
 Codename: stable
-Date: Sun, 03 May 2026 15:57:24 UTC
+Date: Sun, 03 May 2026 16:15:10 UTC
 Architectures: amd64
 Components: main
 Description: clauderig APT repository
 MD5Sum:
- 864e32260b695bf703815b8b4a51b408 467 main/binary-amd64/Packages
- 7947e930fb77467a1898fcadb1cfd400 350 main/binary-amd64/Packages.gz
+ 23271a10099a51beb6b7bc865922af6a 467 main/binary-amd64/Packages
+ ca6714be0695830662f6107c03b69652 350 main/binary-amd64/Packages.gz
  ada4dad47d87205eaef203c5f9dab381 109 main/binary-amd64/Release
 SHA1:
- 3b8c83a3722567144e6bf2ddb1b594fc429ace6f 467 main/binary-amd64/Packages
- ba56d9438d6cde1513e0891854ad391ad7ecfe4f 350 main/binary-amd64/Packages.gz
+ 74de4f6db89f00a120f0edaf20ec02336a9e9479 467 main/binary-amd64/Packages
+ 6eeff4d6739579fd6ae12dd1c4adba78994fbafb 350 main/binary-amd64/Packages.gz
  a62544bee0df4ab5b8bb02c2db0eeaf3019877c2 109 main/binary-amd64/Release
 SHA256:
- db333aac13b261789f6dd157b278be97e29179a9f2b03e7b9f7fdcd157ed0d9c 467 main/binary-amd64/Packages
- d51742fef674e706b1c1ea5d4aba03256f27d387dd5f6756b1ca727dd38be7d3 350 main/binary-amd64/Packages.gz
+ e5fafc3d3fe6406e93d3e6848eb6a23045e86f1b1c855d8dfb025055d49cb4a2 467 main/binary-amd64/Packages
+ 025f80ecead9c9c316943002651590ff1e4f69d4073b3b7f385f8832cc7f7858 350 main/binary-amd64/Packages.gz
  8d911c8eb8e220e1048c6fe18478d6d7f3d1bd4e8ab4542223ed5a275b455631 109 main/binary-amd64/Release

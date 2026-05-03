@@ -1,13 +1,13 @@
 Package: clauderig
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
 Maintainer: harshit jangid <harshitjangid99291@gmail.com>
 Priority: optional
 Section: utils
-Filename: pool/main/c/clauderig/clauderig_1.0.1_amd64.deb
-Size: 10985022
-SHA256: f5599112650203aa7b838eb47b3c2f75a08f0b51f469264f51dd2c2ceb9ea265
-SHA1: 9d1c0e286ed3ad779ac6d0f5ac011a66739946f3
-MD5sum: 742756f7a0db00f965d3a0cb90b01a49
+Filename: pool/main/c/clauderig/clauderig_1.0.2_amd64.deb
+Size: 10986420
+SHA256: c7f98d28ab379b06340c0783bfe7d92b5c506bc633fc6a80791ea1dd68961364
+SHA1: abbafecae07b09c168b666c7a32f85a97bad6b3e
+MD5sum: 8d02da84c320081517126692134a8803
 Description: Bootstrap a production-grade .claude/ setup into any project, instantly.
 
