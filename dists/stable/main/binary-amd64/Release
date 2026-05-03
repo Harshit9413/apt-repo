@@ -1,0 +1,5 @@
+Component: main
+Origin: clauderig
+Label: clauderig
+Architecture: amd64
+Description: clauderig APT repository
