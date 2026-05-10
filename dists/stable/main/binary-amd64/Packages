@@ -5,9 +5,9 @@ Maintainer: harshit jangid <harshitjangid99291@gmail.com>
 Priority: optional
 Section: utils
 Filename: pool/main/c/clauderig/clauderig_1.0.11_amd64.deb
-Size: 11010460
-SHA256: cf5b6cf658bdcb5a65699e5636e4467c42c7bea6f5c796e24acf876c0ed0b45e
-SHA1: 7873286c18293e0c3c7b44553da63c43949c0c0a
-MD5sum: bf2a73af5c8b0c9117254124e2d94579
+Size: 11037492
+SHA256: d1e973b823ed65f383e4b8862014adbf1551ec3002b146de4532c6271432cf31
+SHA1: bc8741fd759b6112e79f7f714918d176488c5165
+MD5sum: c12e839901a33787ac5b824e0523fd64
 Description: Bootstrap a production-grade .claude/ setup into any project, instantly.
 
